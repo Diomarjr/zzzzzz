@@ -9,6 +9,6 @@ SEJA BEM VINDO A TV JUNINHO
 http://195.181.163.183:2200/PY-N/NatGeo_Wild_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
  
  
-#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-W8paYGcgDKI/Wh8TWYWd60I/AAAAAAAABcc/fHHsSzJ-als0iZO9n5rmBHLLCyH7ghj3gCLcBGAs/s1600/AnimalPlanet.png" group-title="DOCUMENTARIO", ANIMAL PLANET
+#EXTINF:-1 tvg-id="lineup.net.br" tvg-logo="https://1.bp.blogspot.com/-W8paYGcgDKI/Wh8TWYWd60I/AAAAAAAABcc/fHHsSzJ-als0iZO9n5rmBHLLCyH7ghj3gCLcBGAs/s1600/AnimalPlanet.png" group-title="DOCUMENTARIO", ANIMAL PLANET
 http://195.181.163.183:2200/PY-N/Animal_Planet_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
  
